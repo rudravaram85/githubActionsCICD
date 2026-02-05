@@ -1,4 +1,4 @@
-name: Hellow Worl
+name: Parallel Jobs
 on: workflow_dispatch
 jobs:
   build:
